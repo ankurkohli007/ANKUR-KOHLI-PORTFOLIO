@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 I'm recent graduate in [M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635) from [University of Genoa (UniGe), Italy](https://unige.it/en) with a strong foundation in AI, Robotics, ML, RL, DL, CV, HTML, CSS, & minor in JavaScript. I'm eager to contribute to challenging projects and collaborate with talented teams. I'm particularly interested in Software Development. I'm always learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
 
 ## 🚀 Live Demo of Portfolio
-Check out the live version of this website: [Click here to visit Website](https://ankurkohli007.github.io/PORTFOLIO-ANKUR-KOHLI/)
+Check out the live version of this website: [Click here to visit Website](https://ankurkohli007.github.io/ANKUR-KOHLI-PORTFOLIO/)
 
 ## 📌 Features
 
@@ -46,17 +46,17 @@ Portfolio/
 ## 🎯 How to Use
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ankurkohli007/PORTFOLIO-ANKUR-KOHLI.git
+   git clone https://github.com/ankurkohli007/ANKUR-KOHLI-PORTFOLIO.git
    ```
 2. **Navigate into the project directory**
    ```bash
-   cd PORTFOLIO-ANKUR-KOHLI
+   cd ANKUR-KOHLI-PORTFOLIO
    ```
 3. **Open `index.html` in your browser**
 
 4. **For GitHub Page to experinece website on the server**
    ```bash
-   https://ankurkohli007.github.io/PORTFOLIO-ANKUR-KOHLI/
+   https://ankurkohli007.github.io/ANKUR-KOHLI-PORTFOLIO/
    ```
 ***Note:*** For better experince experince this portfolio on Safari, there are some bugs with Chrome. 
 
