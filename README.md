@@ -28,7 +28,7 @@ Portfolio/
 │── index.html          # Main landing page
 │── allprojects.html          # To explore all projects
 │── css/
-│   ├── styles1.css      # Style 1
+    ├── styles1.css      # Style 1
     ├── styles2.css      # Style 2
     ├── styles3.css      # Style 3 for all allprojects.html
 ├── js/
