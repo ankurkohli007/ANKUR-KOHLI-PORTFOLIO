@@ -58,7 +58,6 @@ Portfolio/
    ```bash
    https://ankurkohli007.github.io/ANKUR-KOHLI-PORTFOLIO/
    ```
-***Note:*** For better experince experince this portfolio on Safari, there are some bugs with Chrome. 
 
 ## Contact
 
